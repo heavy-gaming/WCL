@@ -1,18 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "AverageGD",
+        "link": "https://www.youtube.com/@averageplayerGD-h2y"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "CurtaGD",
+        "link": "https://www.youtube.com/@CurtaGD"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MiniKey",
+        "link": ""
     },
     {
         "role": "trial",
